@@ -1,0 +1,2 @@
+# rice
+My KDE rice
