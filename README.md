@@ -12,8 +12,8 @@ Icons: Papirus [Lavender Catppuccin folders]
 Desktop bar (`~/.config/plasmashellr` and `~/.config/plasma-org.kde.plasma.desktop-appletsrc`): [here](/configs/taskbar/)   
 Shell: zsh   
 Shell plugins: git pass docker-compose zsh-autosuggestions zsh-syntax-highlighting   
-SDDM: [Sugar Candy](https://store.kde.org/p/1312658) with [wallpaper](/Wallpapers/cat_coffe.png)   
-Wallpaper: [Kitty](/Wallpapers/kitty.png)   
+SDDM: [Sugar Candy](https://store.kde.org/p/1312658) with [wallpaper](/wallpapers/cat_coffe.png)   
+Wallpaper: [Kitty](/wallpapers/kitty.png)   
 Splash Screen: Catppucin Macchiato Lavender   
 [Rofi](https://github.com/davatorium/rofi): [Basic Catppucin Macchato Lavender](https://github.com/catppuccin/rofi)   
 Terminal: Kitty   
