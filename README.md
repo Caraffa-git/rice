@@ -1,4 +1,4 @@
-![preview](/preview)
+![preview](/preview.png)
 
 ### Description:
 
