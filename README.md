@@ -18,8 +18,11 @@ Splash Screen: Catppucin Macchiato Lavender
 [Rofi](https://github.com/davatorium/rofi): [Basic Catppucin Macchato Lavender](https://github.com/catppuccin/rofi)   
 Terminal: Kitty   
 Shortcuts: [here](/configs/shortcuts/)   
-Shortcuts 2: You can use win key for rofi intead but you have to use xcape   
+Shortcuts 2: You can use win key for rofi instead but you have to use xcape   
 Vencord: [Catppuccin](https://catppuccin.github.io/discord/dist/catppuccin-macchiato-lavender.theme.css)
 
 [heavily inspired](https://www.reddit.com/r/unixporn/comments/y72zlv/kde_kde_rice_without_blur_real/)
+
+### Notes:   
+kde file associations: `./.config/mimeapps.list` and `/.local/share/applications/mimeapps.list` 
 
